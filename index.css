@@ -41,6 +41,25 @@ h1 {
 }
 
 .container {
-        width: 1170px;
+    width: 1170px;
     margin: 0 auto;
 } 
+.skill {
+    height: 400px;
+    border: red solid 1px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.portfolios {
+     border: red solid 1px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+
+}
