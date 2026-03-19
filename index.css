@@ -195,3 +195,60 @@ button {
     width: 198px;
 
 }
+.portfolio_desription:hover img {
+    transform: scale(1.1);
+    transition: transform 0.5s;
+}
+#home:hover {
+    color: rgb(39, 78, 78);
+    text-decoration: underline;
+   /* font-size: larger; */
+   transition: transform 0.5s;
+   transform: scale(1.1);
+}
+#works:hover {
+    color: rgb(39, 78, 78);
+    text-decoration: underline;
+   /* font-size: larger; */
+   transition: transform 0.5s;
+   transform: scale(1.1);
+}
+#services:hover {
+    color: rgb(39, 78, 78);
+    text-decoration: underline;
+   /* font-size: larger; */
+   transition: transform 0.5s;
+   transform: scale(1.1);
+}
+#about:hover {
+    color: rgb(39, 78, 78);
+    text-decoration: underline;
+   /* font-size: larger; */
+   transition: transform 0.5s;
+   transform: scale(1.1);
+}
+#contact:hover {
+    color: rgb(39, 78, 78);
+    text-decoration: underline;
+   /* font-size: larger; */
+   transition: transform 0.5s;
+   transform: scale(1.1);
+}
+
+
+#linkedin:hover {
+   transform: scale(1.2);
+    transition: transform 0.5s;
+}
+#instagram:hover {
+   transform: scale(1.2);
+    transition: transform 0.5s;
+}
+#behance:hover {
+   transform: scale(1.2);
+    transition: transform 0.5s;
+}
+#dribble:hover {
+   transform: scale(1.2);
+    transition: transform 0.5s;
+}
